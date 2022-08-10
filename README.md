@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Man. Vex is just like GLSL except quite a bit more accessible!
+- Vex is just like GLSL except quite a bit more accessible!
