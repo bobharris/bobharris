@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bobharris. I'd like to be a technical artist or a graphics engineer one day.
-- 👀 I’m interested in OpenGL, Houdini, Procedural Environment Generation, Unreal Engine, 
+- 👀 I’m interested in OpenGL, Houdini, Procedural Environment Generation, Unreal Engine.
+- 👀 I also crazy dig NIN, synths (AM/FM), guitar, pedals, electronic drums, sampling, Ableton, programming and MUSIK. 
 - 🌱 I’m currently learning OpenGL, C++ (to Advanced), Houdini, Unreal Engine
 - 💞️ I’m looking to collaborate on the VFX script or tool you can't get anyone to make and you really need. 
 - 📫 How to reach me bobharris#1317 (Discord)
