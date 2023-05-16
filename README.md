@@ -10,8 +10,5 @@ bobharris/bobharris is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Have you seen LostInTranslation
-- bobharris. 
-
-Moves these thoughts/ideas to a github page. 
+Move these thoughts/ideas to a github page. 
 - Vex is just like GLSL except quite a bit more accessible!
